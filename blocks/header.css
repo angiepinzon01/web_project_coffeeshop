@@ -23,6 +23,19 @@
   line-height: 72px;
   letter-spacing: -1px;
 }
+.header__description {
+  font-family: "Noto serif", Times, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 683px;
+  margin-top: 28px;
+  left: 80px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
 .header__span-accent {
   display: flex;
   font-family: Noto Serif, Times new roman, serif;
